@@ -14,12 +14,12 @@
 - [📝 License](#license)
 
 
-# 📖 Hello rails react project <a name="about-project"></a>
+# 📖 Hello rails react project with two apps<a name="about-project"></a>
 <br>
 
 
 <br>
-this project is a practice task to see how rails and react app cann be set up in one app<br>
+Hello Rails fronend app is a test project on implementing a Ruby on Rails back-end to serve an API for a separate React front-end. Here is the repository for the front-end: https://github.com/agneta1991/hello-rails-react-backend
 <br>
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -48,7 +48,7 @@ To get a local copy up and running, follow these steps:
 <br>
 - Choose a directory
 - Open a Terminal
-- write git clone https://github.com/agneta1991/hello-rails-react
+- write git clone https://github.com/agneta1991/hello-rails-react-backend
 - get into to directory "hello-rails-react"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
